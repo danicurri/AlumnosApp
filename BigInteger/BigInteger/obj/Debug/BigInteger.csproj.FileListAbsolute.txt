@@ -1,0 +1,2 @@
+C:\Users\Daniel Contreras\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Contreras\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.csproj.CoreCompileInputs.cache

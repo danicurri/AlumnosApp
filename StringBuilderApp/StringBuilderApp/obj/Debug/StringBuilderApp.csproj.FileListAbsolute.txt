@@ -1,0 +1,7 @@
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe.config
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.pdb
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.exe
+C:\Users\Daniel Contreras\source\repos\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Users\Daniel Contreras\source\repos\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\bin\Debug\StringComparison.exe.config
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\bin\Debug\StringComparison.exe
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\bin\Debug\StringComparison.pdb
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\obj\Debug\StringComparison.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\obj\Debug\StringComparison.exe
+C:\Users\Daniel Contreras\source\repos\StringComparison\StringComparison\obj\Debug\StringComparison.pdb

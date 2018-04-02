@@ -1,0 +1,6 @@
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Users\Daniel Contreras\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb
