@@ -1,0 +1,6 @@
+2018-04-21 18:50:03.242 +02:00 [Information] New orders 12 by "{ Id = 72, Name = John Smith }"
+2018-04-21 18:50:03.293 +02:00 [Debug] Debugging message
+2018-04-21 18:50:03.294 +02:00 [Information] Information message
+2018-04-21 18:50:03.295 +02:00 [Warning] Warning message
+2018-04-21 18:50:03.295 +02:00 [Error] Error message
+2018-04-21 18:50:03.297 +02:00 [Fatal] Fatal message
